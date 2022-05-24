@@ -3,7 +3,7 @@ function search() {
     var listIndex = -1;
     var hotList = 0;
     var searchData = {
-        "thisSearch": "https://www.baidu.com/s?wd=",
+        "thisSearch": "https://www.google.com/search?q=",
         "thisSearchIcon": "url('https://npm.elemecdn.com/hassan-assets/navi/search_icon.png')",
         "hotStatus": true,
         "data": [{
